@@ -8,4 +8,3 @@
 1. Clone this repository.
 2. Change the *apiToken* to your Todoist account token, and the *projectId* to the identifier of the project you want to sync inside *js/script.js* file.
 3. Add a new "Browser" source to the scene.
-4. Done!
